@@ -2,11 +2,13 @@
 
 1.GoogleToGmailLaunch
 
-#Selenium
+Selenium
+
 	- Launch Firefox driver
 	- Test Google Launch
 	- Test Gmail Login 
-	- Automate Gmailid & Password 
+	- Automate Gmail id & Password 
 	- After Login then Logout
-#TestNg	
+TestNg
+	
 	- Test Google using Assertion method
