@@ -21,7 +21,7 @@ public class SignUpPageBrowseStack {
 
         //Enter Full Name
         WebElement full_name = driver.findElement(By.id("user_full_name"));
-        full_name.sendKeys("Surya Prakash");
+        full_name.sendKeys("Surya");
 
         try {
             Thread.sleep(1000);
@@ -31,7 +31,7 @@ public class SignUpPageBrowseStack {
 
         //Enter Business Email
         WebElement business_email = driver.findElement(By.id("user_email_login"));
-        business_email.sendKeys("surya.prakash@chawtechsolution.com");
+        business_email.sendKeys("surya@yopmail.com");
 
         try {
             Thread.sleep(1000);
@@ -40,7 +40,7 @@ public class SignUpPageBrowseStack {
         }
         //Enter Password
         WebElement password = driver.findElement(By.id("user_password"));
-        password.sendKeys("Pass123@#$word");
+        password.sendKeys("P34342@");
 
 
         //For New Sign up click on check box to Approve "TermsOfService" & "Privacy Policy"
