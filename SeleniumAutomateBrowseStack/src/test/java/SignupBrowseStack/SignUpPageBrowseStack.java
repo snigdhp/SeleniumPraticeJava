@@ -47,6 +47,10 @@ public class SignUpPageBrowseStack {
         WebElement check_box = driver.findElement(By.id("tnc_checkbox"));
         check_box.click();
 
+        //In Sign up page click on Next button
+        WebElement sign_up = driver.findElement(By.id("user_submit"));
+        sign_up.click();
+
 
 
 
