@@ -34,11 +34,11 @@
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.webdriver/webdriver-common -->
-        <dependency>
-            <groupId>org.seleniumhq.webdriver</groupId>
-            <artifactId>webdriver-common</artifactId>
-            <version>0.9.7376</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>io.github.bonigarcia</groupId>-->
+<!--            <artifactId>webdrivermanager</artifactId>-->
+<!--            <version>5.0.3</version>-->
+<!--        </dependency>-->
 
 
     </dependencies>

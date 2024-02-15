@@ -6,9 +6,12 @@ Selenium
 
 	- Launch using Firefox driver
 	- Test Google Launch
-	- Test Gmail Login by click link 
-	- Automate Gmail id & Password 
-	- After Login then Logout
+	- Click on Sign In 
+	- Click on dismiss
+	- Login Using Credentials 
+	- Click on gmail view
+	- Click on Compose Email
+	- Click on SettingIcon
 TestNg
 	
 	- Test Google using Assertion method
