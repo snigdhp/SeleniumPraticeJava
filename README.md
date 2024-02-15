@@ -14,12 +14,6 @@ Selenium
 	- Click on SettingIcon
 TestNg
 	
-	- Test Google using Assertion method
+	- Test Google Header using Assertion method
 
-2. Browse Stack Web Testing 
 
-Selenium 
-
-	- Launch with firefox driver
-	- By click on Sign up check Sign up link
-	- Sign up without google Account

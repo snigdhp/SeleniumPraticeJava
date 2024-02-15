@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77e9f0c2-760d-44d6-af7e-82895b41e109" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../GoogleToGmailLaunch/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleToGmailLaunch/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomateBrowseStack/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomateBrowseStack/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomateBrowseStack/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomateBrowseStack/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomateBrowseStack/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomateBrowseStack/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomateBrowseStack/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomateBrowseStack/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomateBrowseStack/src/test/java/HomePageBrowseStack/HomePageBrowseStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomateBrowseStack/src/test/java/LaunchDriver/DriverLaunch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomateBrowseStack/src/test/java/SignupBrowseStack/SignUpPageBrowseStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomateBrowseStack/src/test/resources/drivers/geckodriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechlisticAutomationForm/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechlisticAutomationForm/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechlisticAutomationForm/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechlisticAutomationForm/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechlisticAutomationForm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechlisticAutomationForm/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechlisticAutomationForm/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechlisticAutomationForm/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechlisticAutomationForm/src/test/java/BasePage/BaseLaunch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechlisticAutomationForm/src/test/resources/drivers/geckodriver" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2cNBhlReyDh5ftajdeZdMTtChOf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AskOmDch.executor": "Run",
+    "Application.BaseLaunch.executor": "Run",
+    "Application.MainPage.executor": "Run",
+    "Application.techlisticFillingForm.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.BaseLaunch.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/cts-snigdh/AskOmDcmWebAutomate",
+    "onboarding.tips.debug.path": "/home/cts-snigdh/IdeaProjects/TechlisticAutomationForm/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/drivers" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77e9f0c2-760d-44d6-af7e-82895b41e109" name="Changes" comment="" />
+      <created>1707942281255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707942281255</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
